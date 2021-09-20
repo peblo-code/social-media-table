@@ -1,6 +1,6 @@
 # Social Media Dashboard
 
-¡Puedes verlo Aquí!: [ Social Media Dashboard](https://zacksten.github.io/social-media-table/ " Social Media Dashboard")
+¡Puedes verlo Aquí!: [ Social Media Dashboard](https://peblo-code.github.io/social-media-table/ " Social Media Dashboard")
 
 
 ------------
